@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\nanovaTest",
+    "\\nanovaTest\\Calibrate",
+    "\\nanovaTest\\SelectMethod",
+    "\\nanovaTest\\SelectMethod\\Setting"
+  ],
+  "SelectedNode": "\\nanovaTest\\SelectMethod\\RunTestPage.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}

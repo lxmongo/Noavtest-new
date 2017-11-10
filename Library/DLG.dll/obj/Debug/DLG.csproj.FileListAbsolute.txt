@@ -1,0 +1,10 @@
+C:\Users\weizs\source\repos\DLG\DLG\bin\Debug\DLG.dll
+C:\Users\weizs\source\repos\DLG\DLG\bin\Debug\DLG.pdb
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.csprojResolveAssemblyReference.cache
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.csproj.CoreCompileInputs.cache
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.dll
+C:\Users\weizs\source\repos\DLG\DLG\obj\Debug\DLG.pdb
+C:\Users\ytm2d\OneDrive\Documents\NanovaGithub\Novatest\Library\DLG.dll\bin\Debug\DLG.dll
+C:\Users\ytm2d\OneDrive\Documents\NanovaGithub\Novatest\Library\DLG.dll\bin\Debug\DLG.pdb
+C:\Users\ytm2d\OneDrive\Documents\NanovaGithub\Novatest\Library\DLG.dll\obj\Debug\DLG.dll
+C:\Users\ytm2d\OneDrive\Documents\NanovaGithub\Novatest\Library\DLG.dll\obj\Debug\DLG.pdb
